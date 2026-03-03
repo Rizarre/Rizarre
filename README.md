@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean Rizarre Reyes</h1>
 <h3 align="center">A chill Software Engineer from Manila, Philippines.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizarre" alt="rizarre" /></a> </p>
-
 - 👨‍💻 All of my projects are available at my [**website**](https://seanrizarre.vercel.app/)
 
 - 📫 How to reach me: **seanrizarre.reyes@gmail.com**
